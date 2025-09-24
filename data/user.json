@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "age": 26,
+    "progress": 75,
+    "tasksToday": 5,
+    "tasksComplete": 3
+}

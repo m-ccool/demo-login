@@ -1,0 +1,11 @@
+
+body {
+    backgound: #f0f0f0;
+}
+
+.navbar { 
+    backdrop-filter: saturate(1.2) blur(6px);
+}
+.progress {
+    height: 12px;
+}
